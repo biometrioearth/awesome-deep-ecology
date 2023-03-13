@@ -128,6 +128,12 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 ## Software
 
 * Annotation Tools
+  * Agouti
+    * automatically recognize many species and filter blank images.
+    * https://www.agouti.eu/#/ 
+  * Wildlife Insights
+    * AI animal identification and labeling.
+    * https://www.wildlifeinsights.org/
   * VGG Image Annotator (VIA)
     * http://www.robots.ox.ac.uk/~vgg/software/via/ 
   * Visual Object Tagging Tool (VoTT)
