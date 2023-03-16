@@ -50,6 +50,8 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * Right whale recognition using convolutional neural networks. 
   * Polzounov, A., Terpugova, I., Skiparis, D., & Mihai, A. (2016). 
   * http://arxiv.org/abs/1604.05605
+* insect detection
+  * https://syngentagroup.shorthandstories.com/biodiversity-sensor-project/index.html
 
 #### Camera Traps
 * Automatically identifying, counting, and describing wild animals in camera-trap images with deep learning
