@@ -115,6 +115,10 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * https://www.biorxiv.org/content/early/2018/05/30/331181
   * Code: https://github.com/talmo/leap
 
+### Pattern Recognition
+* HotSpotter - Patterned Species Instance Recognition
+  * http://cs.rpi.edu/hotspotter/crall-hotspotter-wacv-2013.pdf
+
 ### Other Topics
 
 <!--
