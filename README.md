@@ -76,7 +76,8 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
   * https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13099
 * unofficial TensorFlow implementation of [Presence-Only Geographical Priors for Fine-Grained Image Classification](https://arxiv.org/abs/1906.05272)
   * Fagner Cunha (e-mail: fagner.cunha@icomp.ufam.edu.br) 
-  * https://github.com/alcunha/geo_prior_tf 
+  * https://github.com/alcunha/geo_prior_tf
+  * https://github.com/macaodha/geo_prior
   
 #### Aerial Imagery
 * Multi-modal survey of Adélie penguin mega-colonies reveals the Danger Islands as a seabird hotspot
